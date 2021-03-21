@@ -1,6 +1,6 @@
 # *Hey, I am Sanuka Chanwara* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<a href="https://github.com/scprojectsLK"><img align="right" src="https://telegra.ph/file/7ba4888dd197df779ab4c.jpg"> </a>
+<a href="https://github.com/scprojectsLK"><img align="right" width="20px" src="https://telegra.ph/file/7ba4888dd197df779ab4c.jpg"> </a>
 ## Here Are Some Ideas To Get You Started:
 
 - <i><b>?? I’m Currently Working on</b> <a href="#"> Telegram Bots.</a></i>
@@ -11,13 +11,13 @@
 - <i><b>?? How to Reach Me: <a href="https://t.me/Sanu_2021ss"></b>Click Here</b></a></i>
 - <i><b>?? Nickname:</b> SC </i>
 
-### ?? My Github Status
+### My Github Status
 ![Hansana's GitHub Status](https://github-readme-stats.vercel.app/api?username=scprojectsLK&show_icons=true&theme=dark) 
 
-### ?? My Tools & Languages
+### My Tools & Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 
-### ???? List Of Software I Learned
+### List Of Software I Learned
 ![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![]()
 ![]()
