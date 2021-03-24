@@ -1,14 +1,13 @@
 # *Hey, I am Sanuka Chanwara* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<a href="https://github.com/scprojectsLK"><img align="right" width="20px" src="https://telegra.ph/file/7ba4888dd197df779ab4c.jpg"> </a>
 ## Here Are Some Ideas To Get You Started:
 
-- <i><b>?? I’m Currently Working on</b> <a href="#"> Telegram Bots.</a></i>
-- <i><b>?? I’m Currently Learning</b> Technical Things.</i>
-- <i><b>?? I’m Looking to Collaborate on</b> <a href="#">  Someone's</a></i>
-- <i><b>?? I’m Looking for help with</b> Tech.</i>
-- <i><b>?? Ask Me Anything About</b> <a href="#">Telegram.</a></i>
-- <i><b>?? How to Reach Me: <a href="https://t.me/Sanu_2021ss"></b>Click Here</b></a></i>
+- <i><b> I’m Currently Working on</b> <a href="#"> Telegram Bots.</a></i>
+- <i><b> I’m Currently Learning</b> Technical Things.</i>
+- <i><b> I’m Looking to Collaborate on</b> <a href="#">  Someone's</a></i>
+- <i><b> I’m Looking for help with</b> Tech.</i>
+- <i><b> Ask Me Anything About</b> <a href="#">Telegram.</a></i>
+- <i><b> How to Reach Me: <a href="https://t.me/Sanu_2021ss"></b>Click Here</b></a></i>
 - <i><b>?? Nickname:</b> SC </i>
 
 ### My Github Status
@@ -21,6 +20,3 @@
 ![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![]()
 ![]()
-
-
-
