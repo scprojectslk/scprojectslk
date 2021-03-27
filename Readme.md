@@ -21,4 +21,4 @@
 ![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![]()
 ![]()
-![MicrosoftExel](https://img.shields.io/badge/Microsoft_Exel-D83B01?style=for-the-badge&logo=microsoft-exel&logoColor=green)
+![MicrosoftExel](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xda-developers.com%2Fmicrosoft-excel-convert-photo-to-table%2F&psig=AOvVaw1wtc8xCirPolg90l_M8Wz-&ust=1616924713196000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKimreuY0O8CFQAAAAAdAAAAABAE)
