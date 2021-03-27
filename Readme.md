@@ -21,4 +21,4 @@
 ![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![]()
 ![]()
-![MicrosoftExel](https://img.shields.io/badge/Microsoft_Exel-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![MicrosoftExel](https://img.shields.io/badge/Microsoft_Exel-D83B01?style=for-the-badge&logo=microsoft-exel&logoColor=green)
