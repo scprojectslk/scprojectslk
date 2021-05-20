@@ -9,7 +9,7 @@
 - <i><b> 😁 HAPPY TO BE A ADMIN IN @InfinityBOTs_Support </b> 
 - <i><b> 🤔 Ask Me Anything About</b> <a href="#">Telegram.</a></i>
 - <i><b> 🎃 How to Reach Me: <a href="https://t.me/Sanu_2021ss"></b>Click Here</b></a></i>
-- <i><b>?? Nickname:</b> SC </i>
+- <i><b> 😁 Nickname:</b> SC </i>
 
 ### My Github Status
 ![Sanuka's GitHub Status](https://github-readme-stats.vercel.app/api?username=scprojectsLK&show_icons=true&theme=dark) 
