@@ -22,3 +22,22 @@
 ![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![]()
 ![]()
+
+## 💻 My Virtual Hosters
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MicrosoftAzure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
+## 👨💻 List Of Software I Learned
+![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)  ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)  ![DreamWeaver](https://aleen42.github.io/badges/src/dreamweaver.svg)
+![]()
+![]()
+![]()
+
+
+## Contact Me Through My Social Media,
+<a href="https://t.me/Sanu_2021ss">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
