@@ -11,7 +11,7 @@
 - <i><b> 🎃 How to Reach Me: <a href="https://t.me/Sanu_2021ss"></b>Click Here</b></a></i>
 - <i><b> 😁 Nickname:</b> SC </i>
 
-## My Projects Channel <img src="https://media3.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50px">
+## My Projects Channel  <img src="https://media3.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50px">
 
 ### My Github Status
 ![Sanuka's GitHub Status](https://github-readme-stats.vercel.app/api?username=scprojectsLK&show_icons=true&theme=dark) 
