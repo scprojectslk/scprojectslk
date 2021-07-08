@@ -1,4 +1,4 @@
-# *Hey, I am Sanuka Chanwara* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# *Hey, I am Sanuka Chanwara* <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="30px">
 
 ## Here Are Some Ideas To Get You Started:
 
