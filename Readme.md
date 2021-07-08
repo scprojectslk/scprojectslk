@@ -3,7 +3,7 @@
 ## Here Are Some Ideas To Get You Started: <img src="https://media3.giphy.com/media/l4JyLo9cM51tE8stG/giphy.gif" width="70px">
 
 - <i><b> 🤗 I’m Currently Working on</b> <a href="#"> Telegram Bots.</a></i>
-- <i><b> 😀 I’m Currently Learning</b> Technical Things.</i>
+- <i><b> 😀 I’m Currently Learning</b> Python + HTML.</i>
 - <i><b> 😅 I’m Looking to Collaborate on</b> <a href="#">  Someone's</a></i>
 - <i><b> 😨 I’m Looking for help with</b> [Tech](https://t.me/SCProjectsLK).</i>
 - <i><b> 😁 HAPPY TO BE A ADMIN IN [HARP Productions 🥳](https://t.me/HARP_Productions) </b> 
