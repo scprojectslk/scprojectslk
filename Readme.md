@@ -1,4 +1,4 @@
-# *Hey, I am Sanuka Chanwara* <img src="https://www.google.com/search?q=github+gifs&client=lightning&prmd=ivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwizko7j9dLxAhUVXSsKHXCJDdwQ_AUoAXoECAIQAQ" width="30px">
+# *Hey, I am Sanuka Chanwara* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ## Here Are Some Ideas To Get You Started:
 
