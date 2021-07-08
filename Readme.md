@@ -1,4 +1,4 @@
-# *Hey, I am Sanuka Chanwara* <img src="https://64.media.tumblr.com/1bef7a46c8e5acfe80c6e18872e8852e/8e74a27b5a55bf10-4e/s500x750/3dc10b9bda0f69360315287b633d9cbb58ea8f56.gifv" width="50px">
+# *Hey, I am Sanuka Chanwara* <img src="https://64.media.tumblr.com/1bef7a46c8e5acfe80c6e18872e8852e/8e74a27b5a55bf10-4e/s500x750/3dc10b9bda0f69360315287b633d9cbb58ea8f56.gifv" width="70px">
 
 ## Here Are Some Ideas To Get You Started: <img src="https://media3.giphy.com/media/l4JyLo9cM51tE8stG/giphy.gif" width="70px">
 
@@ -11,7 +11,7 @@
 - <i><b> 🎃 How to Reach Me: <a href="https://t.me/Sanu_2021ss"></b>Click Here</b></a></i>
 - <i><b> 😁 Nickname:</b> SC </i>
 
-## My Projects Channel <img src="https://media3.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="70px">
+## My Projects Channel <img src="https://media3.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50px">
 
 ### My Github Status
 ![Sanuka's GitHub Status](https://github-readme-stats.vercel.app/api?username=scprojectsLK&show_icons=true&theme=dark) 
