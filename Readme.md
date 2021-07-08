@@ -12,7 +12,7 @@
 - <i><b> 😁 Nickname:</b> SC </i>
 
 ## My Projects Channel <img src="https://media3.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50px">
-<a href="https://www.cryptomuntengids.be/wp-content/uploads/2020/07/telegram.png">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://t.me/SCProjectsLK">![Telegram](https://www.cryptomuntengids.be/wp-content/uploads/2020/07/telegram.png)</a>
 
 ### My Github Status
 ![Sanuka's GitHub Status](https://github-readme-stats.vercel.app/api?username=scprojectsLK&show_icons=true&theme=dark) 
