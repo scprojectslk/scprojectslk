@@ -1,4 +1,4 @@
-# *Hey, I am SANU* <img src="https://i.pinimg.com/originals/42/9a/89/429a890a39e70d522d52c7e52bce8535.gif" width="70px">
+# *Hey, I am SANU* <img src="https://cdn130.picsart.com/262048142005202.gif" width="70px">
 
 ## Here Are Some Ideas To Get You Started: <img src="https://media3.giphy.com/media/l4JyLo9cM51tE8stG/giphy.gif" width="70px">
 
