@@ -1,6 +1,6 @@
 # I'ᴍ SᴀNᴜ <img src="https://cdn130.picsart.com/262048142005202.gif" width="70px"> [#TᴀɢsNᴏᴛAᴠᴀɪʟᴀʙʟᴇ](https://t.me/TagsNotAvailable)
 
-## Here Are Some Ideas To Get You Started: <img src="https://media3.giphy.com/media/l4JyLo9cM51tE8stG/giphy.gif" width="70px">
+## Here Are Some Ideas To Get You Started: <img src="https://cdn130.picsart.com/262048142005202.gif" width="70px">
 
 - <i><b> 🤗 I’m Currently Working on</b> <a href="#"> Telegram Bots.</a></i>
 - <i><b> 😀 I’m Currently Learning</b> Python + HTML.</i>
