@@ -1,14 +1,14 @@
 # I'ᴍ SᴀNᴜ <img src="https://cdn130.picsart.com/262048142005202.gif" width="70px"> [#TᴀɢsNᴏᴛAᴠᴀɪʟᴀʙʟᴇ](https://t.me/TagsNotAvailable)
 
-## Here Are Some Ideas To Get You Started: <img src="https://c.tenor.com/VhlfUsC3cQ4AAAAC/quby-pentol.gif" width="70px">
+## Hᴇʀᴇ Aʀᴇ Sᴏᴍᴇ Iᴅᴇᴀs Tᴏ Gᴇᴛ Yᴏᴜ Sᴛᴀʀᴛᴇᴅ: <img src="https://c.tenor.com/VhlfUsC3cQ4AAAAC/quby-pentol.gif" width="70px">
 
-- <i><b> 🤗 I’m Currently Working on</b> <a href="#"> Telegram Bots.</a></i>
-- <i><b> 😀 I’m Currently Learning</b> Python + HTML.</i>
-- <i><b> 😅 I’m Looking to Collaborate on</b> <a href="#">  Someone's</a></i>
-- <i><b> 😨 I’m Looking for help with</b> [Tech](https://t.me/SCProjectsLK).</i>
-- <i><b> 😁 HAPPY TO BE A ADMIN IN [HARP Productions 🥳](https://t.me/HARP_Productions) </b> 
-- <i><b> 🤔 Ask Me Anything About</b> <a href="#">Telegram.</a></i>
-- <i><b> 🎃 How to Reach Me: <a href="https://t.me/Sanu_2021ss"></b>Click Here</b></a></i>
+- <i><b> 🤗 I’ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ ᴏɴ</b> <a href="#"> Tᴇʟᴇɢʀᴀᴍ Bᴏᴛs.</a></i>
+- <i><b> 😀 I’ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ</b> JᴀVᴀ + HᴛMʟ.</i>
+- <i><b> 😅 I’ᴍ Looking to Collaborate on</b> <a href="#">  Someone's</a></i>
+- <i><b> 😨 I'ᴍ Looking for help with</b> [Tech](https://t.me/SCProjectsLK).</i>
+- <i><b> 😁 Hᴀᴘᴘʏ Tᴏ Bᴇ A Aᴅᴍɪɴ Iɴ [Hᴀʀᴘ Mɪʀʀᴏʀ 🥳](https://t.me/HARP_Mirror) </b> 
+- <i><b> 🤔 Asᴋ Mᴇ Aɴʏᴛʜɪɴɢ Aʙᴏᴜᴛ</b> <a href="#">Telegram.</a></i>
+- <i><b> 🎃 How to Reach Me: <a href="https://t.me/SANU_TNA"></b>Click Here</b></a></i>
 - <i><b> 😁 Nickname:</b> SC </i>
 
 ## My Projects Channel <img src="https://media3.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50px">
