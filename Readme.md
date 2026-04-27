@@ -11,8 +11,7 @@
 - <i><b> 🎃 How to Reach Me: <a href="https://t.me/SANU_TNA"></b>Click Here</b></a></i>
 - <i><b> 😁 Nickname:</b> SC </i>
 
-## My Projects Channel <img src="https://media3.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50px">
-<a href="https://t.me/SCProjectsLK">![Telegram](https://www.cryptomuntengids.be/wp-content/uploads/2020/07/telegram.png)</a>
+[Telegram](https://www.cryptomuntengids.be/wp-content/uploads/2020/07/telegram.png)</a>
 
 ### My Github Status
 ![Sanuka's GitHub Status](https://github-readme-stats.vercel.app/api?username=scprojectsLK&show_icons=true&theme=dark) 
