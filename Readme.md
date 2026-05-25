@@ -1,6 +1,6 @@
 # I'ᴍ SᴀNᴜ <img src="https://cdn130.picsart.com/262048142005202.gif" width="70px"> [#TᴀɢsNᴏᴛAᴠᴀɪʟᴀʙʟᴇ](https://t.me/TagsNotAvailable)
 
-## Hᴇʀᴇ Aʀᴇ Sᴏᴍᴇ Iᴅᴇᴀs Tᴏ Gᴇᴛ Yᴏᴜ Sᴛᴀʀᴛᴇᴅ: <img src="https://c.tenor.com/VhlfUsC3cQ4AAAAC/quby-pentol.gif" width="70px">
+## Hᴇʀᴇ Aʀᴇ Sᴏᴍᴇ Iᴅᴇᴀs Tᴏ Gᴇᴛ Yᴏᴜ Sᴛᴀʀᴛᴇᴅ: <img src="https://c.tenor.com/VhlfUsC3cQ4AAAAC/quby-pentol.gif" width="50px">
 
 - <i><b> 🤗 I’ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ ᴏɴ</b> <a href="https://t.me/botfather"> Tᴇʟᴇɢʀᴀᴍ Bᴏᴛs.</a></i>
 - <i><b> 🤔 Asᴋ Mᴇ Aɴʏᴛʜɪɴɢ Aʙᴏᴜᴛ</b> <a href="#">Telegram.</a></i>
