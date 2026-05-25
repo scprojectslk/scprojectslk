@@ -5,14 +5,9 @@
 - <i><b> 🤗 I’ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ ᴏɴ</b> <a href="#"> Tᴇʟᴇɢʀᴀᴍ Bᴏᴛs.</a></i>
 - <i><b> 😀 I’ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ</b> JᴀVᴀ + HᴛMʟ.</i>
 - <i><b> 😅 I’ᴍ Looking to Collaborate on</b> <a href="#">  Someone's</a></i>
-- <i><b> 😨 I'ᴍ Looking for help with</b> [Tech](https://t.me/SCProjectsLK).</i>
-- <i><b> 😁 Hᴀᴘᴘʏ Tᴏ Bᴇ A Aᴅᴍɪɴ Iɴ [Hᴀʀᴘ Mɪʀʀᴏʀ 🥳](https://t.me/HARP_Mirror) </b> 
 - <i><b> 🤔 Asᴋ Mᴇ Aɴʏᴛʜɪɴɢ Aʙᴏᴜᴛ</b> <a href="#">Telegram.</a></i>
 - <i><b> 🎃 How to Reach Me: <a href="https://t.me/SANU_TNA"></b>Click Here</b></a></i>
 - <i><b> 😁 Nickname:</b> SC </i>
-
-### My Github Status
-![Sanuka's GitHub Status](https://github-readme-stats.vercel.app/api?username=scprojectsLK&show_icons=true&theme=dark) 
 
 ### My Tools & Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
