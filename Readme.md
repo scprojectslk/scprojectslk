@@ -2,9 +2,7 @@
 
 ## Hᴇʀᴇ Aʀᴇ Sᴏᴍᴇ Iᴅᴇᴀs Tᴏ Gᴇᴛ Yᴏᴜ Sᴛᴀʀᴛᴇᴅ: <img src="https://c.tenor.com/VhlfUsC3cQ4AAAAC/quby-pentol.gif" width="70px">
 
-- <i><b> 🤗 I’ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ ᴏɴ</b> <a href="#"> Tᴇʟᴇɢʀᴀᴍ Bᴏᴛs.</a></i>
-- <i><b> 😀 I’ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ</b> JᴀVᴀ + HᴛMʟ.</i>
-- <i><b> 😅 I’ᴍ Looking to Collaborate on</b> <a href="#">  Someone's</a></i>
+- <i><b> 🤗 I’ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ ᴏɴ</b> <a href="https://t.me/botfather"> Tᴇʟᴇɢʀᴀᴍ Bᴏᴛs.</a></i>
 - <i><b> 🤔 Asᴋ Mᴇ Aɴʏᴛʜɪɴɢ Aʙᴏᴜᴛ</b> <a href="#">Telegram.</a></i>
 - <i><b> 🎃 How to Reach Me: <a href="https://t.me/SANU_TNA"></b>Click Here</b></a></i>
 - <i><b> 😁 Nickname:</b> SC </i>
